@@ -1,0 +1,5 @@
+Línea 800: la clase MSComctlLib.TabStrip del control TabStrip no era una clase de control cargada.
+Línea 807: el nombre de la propiedad _ExtentX de TabStrip no es válido.
+Línea 808: el nombre de la propiedad _ExtentY de TabStrip no es válido.
+Línea 809: el nombre de la propiedad _Version de TabStrip no es válido.
+Línea 836: el nombre de la propiedad Tabs de TabStrip no es válido.

@@ -1,0 +1,2 @@
+Línea 19: la propiedad Icon de frmGrupo tenía una referencia a archivo no válida.
+Línea 89: la propiedad Caption de Label1 debe ser una cadena encerrada entre comillas
